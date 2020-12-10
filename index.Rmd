@@ -1,0 +1,20 @@
+---
+title: "patolojiAI"
+image: "img/patolojiAI-banner.jpg"
+links:
+- LinkedIn: "https://linkedin.com/company/patolojiAI"
+- Twitter: "https://twitter.com/patolojiAI"
+- GitHub: "https://github.com/patolojiAI"
+- Instagram: "https://www.instagram.com/patolojiai/"
+- Facebook: "https://www.facebook.com/patolojiAI"
+- Email: "mailto:info@patolojiai.com"
+output:
+  postcards::jolla
+---
+
+
+patolojiAI Sağlık Yapay Zeka ve Biyoteknoloji  
+Ticaret Limited Şirketi  
+MERSİS No: 0723081122900001  
+Evliya Çelebi Mah. Sadi Konuralp Cad. IKS Vakfı Blok No:5/2 34430 Beyoğlu İstanbul  
+
