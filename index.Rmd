@@ -12,6 +12,22 @@ output:
   postcards::jolla
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Beyoğlu",
+    "addressRegion": "İstanbul",
+    "streetAddress": "Evliya Çelebi Mah. Sadi Konuralp Cad. IKS Vakfı Blok No:5/2 34430 Beyoğlu İstanbul"
+  },
+  "description": "patolojiAI Sağlık Yapay Zeka ve Biyoteknoloji MERSİS No: 0723081122900001  ",
+  "name": "patolojiAI Sağlık Yapay Zeka ve Biyoteknoloji Ticaret Limited Şirketi",
+  "telephone": "+905334472096"
+}
+</script>
+
 
 patolojiAI Sağlık Yapay Zeka ve Biyoteknoloji  
 Ticaret Limited Şirketi  
